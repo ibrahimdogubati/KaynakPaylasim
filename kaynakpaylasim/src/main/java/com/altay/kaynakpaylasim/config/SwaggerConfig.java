@@ -19,7 +19,7 @@ public class SwaggerConfig {
 
     ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("Issue Management API Reference")
+                .title("Kaynak Paylaşım Sistemi")
                 .version("1.0.0")
                 .build();
     }
